@@ -5,4 +5,4 @@
 # Flow
 
 # 1. Execute Matrix_factorization_and_cosine_similarity.ipynb to generate recommendations using matrix factorization and cosine similarity.
-# 2. Execute KNN.ipynb to train the KNN model and obtain recommendations from the model.
+# 2. Execute KNN.ipynb to train the KNN model and obtain recommendations from the models.
